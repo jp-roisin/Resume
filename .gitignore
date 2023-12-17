@@ -1,0 +1,9 @@
+# Ignore all logfiles and tempfiles.
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.log
+*.out
+*.toc
+*.cls
